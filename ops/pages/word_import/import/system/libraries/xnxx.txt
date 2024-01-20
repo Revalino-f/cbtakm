@@ -1,0 +1,22 @@
+[CANDY 2.9.4 r2 Mod By @r4i & E.S rev5]
+- Penambhan model soal AKM
+- Penambahan menu wali kelas
+- Penambahan fitur di Status Peserta
+- Penambahan Fitur Ujian Ulang
+- Penambahan Fitur Pelanggaran
+- Perbaikan di versi sebelumnya
+- Perbaikan menu dan hak akses pada level guru dan pengawas
+- Penambahan fitur pada menu setting admin 
+- Perbaikan cetak berita acara,absen dan kartu peserta
+- Untuk berita acara,absen dan kartu peserta sudah otomatis menggunakn logo dinas pendidikan masing-msing daerah
+- Perubahan tampilan pada dashboard siswa,admin,pengawas dan guru
+- Perubahan login admin
+- Perubahan login siswa
+
+Terima Kasih Kepada Allah SWT.
+Terima Kasih untuk My Little Candy Nasha Arumi
+Terima Kasih To @r4i
+Terima Kasih To E.S
+Terima Kasih untuk Semua Pengguna Candy.
+
+Salam Hangat Candy

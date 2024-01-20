@@ -1,0 +1,68 @@
+body {
+font-family: 'tulisan_keren';
+font-size: 12px;
+line-height: 1.42857143;
+color: #000;
+}
+.soal img {
+max-width: 100%;
+height: auto;
+}
+
+.main-header .sidebar-baru {
+float: left;
+color: white;
+padding: 15px 15px;
+cursor: pointer;
+}
+
+.callout {
+border-left: 0px;
+}
+
+.btn {
+
+border-radius: 20em;
+}
+
+.btn-primary {
+background-color: blue;
+border-color: #367fa9;
+font-weight: bolder;
+}
+
+.btn.btn-flat {
+border-radius: 20em;
+}
+
+.skin-red-light .sidebar-menu>li:hover>a,
+.skin-red-light .sidebar-menu>li.active>a {
+color: #fff;
+background: #e111e8;
+}
+
+img.zoom {
+    width: 350px;
+    height: 200px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+}
+
+.transisi {
+    -webkit-transform: scale(1.8); 
+    -moz-transform: scale(1.8);
+    -o-transform: scale(1.8);
+    transform: scale(1.8);
+}
+#gradient2 {
+background: #00d2ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #00d2ff, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4997fc, #c1d9f7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	}
+	
+#kiribg {
+background-image: linear-gradient(to right top, #edf8f7, #e3f3f5, #d9eef4, #d2e8f4, #cde2f4, #cce1f3, #cae0f1, #c9dff0, #cbe2ee, #cee5eb, #d4e7e9, #dae9e8);
+}
